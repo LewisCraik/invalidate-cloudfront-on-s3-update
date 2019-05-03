@@ -58,6 +58,3 @@ Now is time to test your function - add a file to the S3 bucket and after a few 
 * The "Monitoring" tab on your function in the Lambda Management Console.
 * You CloudWatch logs.
 * An invalidation will be listed in the "Invalidations" tab for your distribution on the CloudFront Management Console.
-
-## Author
-**[Lewis Craik](http://lewiscraik.co.uk)**
